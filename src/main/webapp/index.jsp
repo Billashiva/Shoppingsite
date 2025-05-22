@@ -99,9 +99,9 @@ h1{
             </ul>
 		
         </header>
-	<h1>Welcome to flipcart. </br>
-		Thanks for Choosing flipkart  </br>
-		here wonderful offers going on . </br>So please shop now</h1>
+	<h1> Welcome to flipcart. </br>
+		Thanks for Choosing flipkart 
+		</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
