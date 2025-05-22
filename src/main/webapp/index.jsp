@@ -100,7 +100,9 @@ h1{
 		
         </header>
 	<h1> Welcome to flipcart. </br>
-		Thanks for Choosing flipkart 
+		Thanks for Choosing flipkart </br> 
+		<b> <i> Hurry up! flipkart is having summer sale offers. </br>.
+				so please shop our organisation. </i> </b>
 		</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
