@@ -99,7 +99,8 @@ h1{
             </ul>
 		
         </header>
-	<h1> Welcome to flipcart.
+	<h1> Welcome to flipcart. </br>
+           Thanks for Choosing Flipkart..
 		</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
